@@ -6,7 +6,6 @@
 #include <QAudioFormat>
 #include <QUdpSocket>
 #include <QAudioOutput>
-#pragma comment(lib,"va_g729a.lib")
 extern "C"
 {
  #include "va_g729a.h"
